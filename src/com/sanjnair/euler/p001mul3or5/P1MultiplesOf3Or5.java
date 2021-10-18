@@ -5,7 +5,7 @@ Find the sum of all the multiples of 3 or 5 below 1000.
 */
 
 
-package com.sanjnair.euler.mul3or5;
+package com.sanjnair.euler.p001mul3or5;
 
 public class P1MultiplesOf3Or5 {
 

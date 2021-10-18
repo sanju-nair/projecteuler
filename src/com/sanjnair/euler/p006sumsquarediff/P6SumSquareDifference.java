@@ -8,7 +8,7 @@ The sum of the squares of the first ten natural numbers is,
         Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
 */
 
-package com.sanjnair.euler.sumsquarediff;
+package com.sanjnair.euler.p006sumsquarediff;
 
 public class P6SumSquareDifference {
     public static void main(String[] args) {

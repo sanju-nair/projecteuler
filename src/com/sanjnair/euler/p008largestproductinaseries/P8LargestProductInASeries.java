@@ -25,7 +25,7 @@ The four adjacent digits in the 1000-digit number that have the greatest product
         Find the thirteen adjacent digits in the 1000-digit number that have the greatest product. What is the value of this product?
 */
 
-package com.sanjnair.euler.largestproductinaseries;
+package com.sanjnair.euler.p008largestproductinaseries;
 
 public class P8LargestProductInASeries {
     public static void main(String[] args) {

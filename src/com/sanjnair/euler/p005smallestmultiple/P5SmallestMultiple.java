@@ -3,7 +3,7 @@
 What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
 */
 
-package com.sanjnair.euler.smallestmultiple;
+package com.sanjnair.euler.p005smallestmultiple;
 
 public class P5SmallestMultiple {
     public static void main(String[] args) {

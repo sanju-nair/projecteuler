@@ -5,7 +5,7 @@ By considering the terms in the Fibonacci sequence whose values do not exceed fo
 */
 
 
-package com.sanjnair.euler.evenfibonacci;
+package com.sanjnair.euler.p002evenfibonacci;
 
 public class P2EvenFibonacciNumbers {
     public static void main(String[] args) {

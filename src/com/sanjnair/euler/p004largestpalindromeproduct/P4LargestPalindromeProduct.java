@@ -4,7 +4,7 @@ Find the largest palindrome made from the product of two 3-digit numbers.
 */
 
 
-package com.sanjnair.euler.largestpalindromeproduct;
+package com.sanjnair.euler.p004largestpalindromeproduct;
 
 import java.util.ArrayList;
 import java.util.List;

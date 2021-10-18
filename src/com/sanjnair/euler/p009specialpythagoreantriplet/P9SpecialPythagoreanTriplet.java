@@ -9,7 +9,7 @@ A Pythagorean triplet is a set of three natural numbers, a < b < c, for which,
 */
 
 
-package com.sanjnair.euler.specialpythagoreantriplet;
+package com.sanjnair.euler.p009specialpythagoreantriplet;
 
 public class P9SpecialPythagoreanTriplet {
     public static void main(String[] args) {

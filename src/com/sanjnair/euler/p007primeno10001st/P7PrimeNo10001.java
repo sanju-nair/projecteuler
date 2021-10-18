@@ -4,7 +4,7 @@ By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that 
         What is the 10 001st prime number?
 */
 
-package com.sanjnair.euler.primeno10001st;
+package com.sanjnair.euler.p007primeno10001st;
 
 public class P7PrimeNo10001 {
     public static void main(String[] args) {

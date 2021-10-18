@@ -28,7 +28,7 @@ In the 20×20 grid below, four numbers along a diagonal line have been marked in
 */
 
 
-package com.sanjnair.euler.largestproductingrid;
+package com.sanjnair.euler.p011largestproductingrid;
 
 public class P11LargestProductInGrid {
     public static void main(String[] args) {

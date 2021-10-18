@@ -4,7 +4,7 @@ The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
 Find the sum of all the primes below two million.
 */
 
-package com.sanjnair.euler.summationofprimes;
+package com.sanjnair.euler.p010summationofprimes;
 
 public class P10SummationOfPrimes {
     public static void main(String[] args) {
